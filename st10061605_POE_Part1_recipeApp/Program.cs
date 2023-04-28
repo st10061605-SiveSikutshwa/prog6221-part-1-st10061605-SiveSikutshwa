@@ -16,16 +16,7 @@ namespace st10061605_POE_Part1_recipeApp
         private int numSteps;
         private string[] theSteps;
 
-        public Recipe()
-        {
-            //intializing the variables
-            numIngredients = 0;
-            ingredients = new string[0];
-            quantiites = new double[0];
-            units = new string[0];
-            numSteps = 0;
-            theSteps = new string[0];
-        }
+
 
     }
 
